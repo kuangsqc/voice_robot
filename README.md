@@ -12,7 +12,7 @@
 
 ### 2.Picovoice账号注册
 
-前往(https://console.picovoice.ai/) 创建账号，生成AccessKey并保存下来，后面需要在项目中配置这个AccessKey。如果需要训练自己的唤醒词在这个页面(https://console.picovoice.ai/ppn)，选择“English”，输入唤醒次训练导出。本项目默认唤醒词“hey Tony”，可直接使用。
+前往[Picovoice注册页面](https://console.picovoice.ai/) 创建账号，生成AccessKey并保存下来，后面需要在项目中配置这个AccessKey。如果需要训练自己的唤醒词在这个页面[唤醒词训练页面](https://console.picovoice.ai/ppn)，选择“English”，输入唤醒次训练导出。本项目默认唤醒词“hey Tony”，可直接使用。
 
 ### 3.运行环境
 
