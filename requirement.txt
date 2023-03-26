@@ -1,0 +1,5 @@
+openai
+speech_recognition
+pvporcupine
+pyaudio
+playsound

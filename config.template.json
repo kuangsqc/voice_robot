@@ -1,0 +1,6 @@
+{
+    "open_ai_key": "",
+    "picovoice_access_key":"",
+    "picovoice_ppn":".\\model\\hey-tony.ppn",
+    "proxy": ""
+}
